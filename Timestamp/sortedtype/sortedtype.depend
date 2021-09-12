@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1564613530 source:c:\users\lib-609\desktop\lab 12\sortedtype\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
+1564613532 c:\users\lib-609\desktop\lab 12\sortedtype\sortedtype.h
+
+1564617652 source:c:\users\lib-609\desktop\lab 12\sortedtype\main.cpp
+	<iostream>
+	"sortedtype.cpp"
+	"timestamp.h"
+
+1564613530 c:\users\lib-609\desktop\lab 12\sortedtype\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
+1564616707 c:\users\lib-609\desktop\lab 12\sortedtype\timestamp.cpp
+	<iostream>
+	"timeStamp.h"
+
+1564615151 c:\users\lib-609\desktop\lab 12\sortedtype\timestamp.h
+
+1564616784 source:c:\users\lib-609\desktop\lab 12\sortedtype\timestamp.cpp
+	<iostream>
+	"timeStamp.h"
+
